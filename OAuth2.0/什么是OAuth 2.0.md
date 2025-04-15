@@ -44,7 +44,7 @@ grant_type 授权类型
 
 ##### 客户端模式：
 
-![image-20250414103617189](client_credentials.png)
+![image-20250414103617189](assest_1/client_credentials.png)
 
 适用于内部系统直接通信
 
@@ -52,7 +52,7 @@ grant_type 授权类型
 
 ##### 密码模式：
 
-![image-20250414103956723](password.png)
+![image-20250414103956723](assest_1/password.png)
 
 通过提供用户名密码进行访问
 
@@ -60,11 +60,11 @@ grant_type 授权类型
 
 ##### 简化模式：
 
-![image-20250414104147305](implicit.png)
+![image-20250414104147305](assest_1/implicit.png)
 
 ##### 授权码模式：
 
-![image-20250414104619290](authorization.png)
+![image-20250414104619290](assest_1/authorization.png)
 
 
 
